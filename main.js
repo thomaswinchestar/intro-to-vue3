@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-const product = 'Socks'
-=======
 const app = Vue.createApp({
     data() {
         return {
@@ -20,4 +17,3 @@ const app = Vue.createApp({
         }
     }
 })
->>>>>>> 25c6c44bd0e6b1f970589a93feadf75d2210a24d
